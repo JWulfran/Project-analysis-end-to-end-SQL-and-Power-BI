@@ -41,8 +41,9 @@ Ce projet présente une **analyse complète de données** : de l’extraction SQ
    - Visualisations : barres, cartes, tables dynamiques, segments
 
 4. **Analyse & interprétation**
-   - Recommandations pour la stratégie commerciale
-   - Détection de produits et clients à forte valeur
+   - Recommandations pour la stratégie, allouer les ressources au projets les plus rentables
+   - Détection des projets rentables, celui qui est charge du projet
+   - Suivi de projet
 
 ---
 
